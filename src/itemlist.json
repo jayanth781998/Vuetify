@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "image": "https://raw.githubusercontent.com/gwenf/vuetify-responsive/master/public/img/products/product-3.jpg",
+      "name": "Family Computer",
+      "price": 70,
+      "id": 1
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gwenf/vuetify-responsive/master/public/img/products/product-3.jpg",
+      "name": "Family Computer",
+      "price": 70,
+      "id": 2
+    }
+  ]
+}
